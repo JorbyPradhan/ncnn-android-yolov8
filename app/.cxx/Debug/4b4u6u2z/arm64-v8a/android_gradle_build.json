@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "D:\\coreCompAndroid\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\USER\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\coreCompAndroid\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\.cxx\\Debug\\4b4u6u2z\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\USER\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\coreCompAndroid\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\.cxx\\Debug\\4b4u6u2z\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-Debug-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\USER\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\coreCompAndroid\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\.cxx\\Debug\\4b4u6u2z\\arm64-v8a",
+        "yolov8ncnn"
+      ],
+      "buildType": "debug",
+      "abi": "arm64-v8a",
+      "artifactName": "yolov8ncnn",
+      "output": "D:\\coreCompAndroid\\ncnn-android-yolov8\\ncnn-android-yolov8\\app\\build\\intermediates\\cxx\\Debug\\4b4u6u2z\\obj\\arm64-v8a\\libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

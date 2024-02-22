@@ -1,0 +1,4 @@
+# ninja log v5
+9	904	730303213	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	a4197e818232b483
+1	990	730303213	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	87c1ac690b675508
+5	1069	730303213	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	deb048910add1144
